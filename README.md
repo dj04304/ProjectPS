@@ -1,4 +1,4 @@
-# Project PS (1점 4조)
+# Project PS
 
 ![TeamLogo](https://cdn-icons-png.flaticon.com/512/7053/7053250.png)
 
